@@ -14,9 +14,11 @@ And you would rotate it to show if he had gotten his kibble. Except you would ne
 So thats when the idea to make a slider came! 
 
 And the result is a part to place a slider inside. Like so:
+
 <img width="482" height="504" alt="image" src="https://github.com/user-attachments/assets/b2049aea-1685-41e4-836e-6575320a1bd1" />
 
 This is where a slider could go into and make this:
+
 <img width="703" height="419" alt="image" src="https://github.com/user-attachments/assets/bde8ee99-6867-437c-9b5f-e8414625eb31" />
 
 And because it has morning (ochtend) and evening (avond) you would switch it when he got it that time of day. And automatically 'switch' it back!
