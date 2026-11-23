@@ -22,6 +22,7 @@ This is where a slider could go into and make this:
 <img width="703" height="419" alt="image" src="https://github.com/user-attachments/assets/bde8ee99-6867-437c-9b5f-e8414625eb31" />
 
 And because it has morning (ochtend) and evening (avond) you would switch it when he got it that time of day. And automatically 'switch' it back!
+
 I did add some small details to make it look a bit less boring.
 
 <img width="956" height="678" alt="image" src="https://github.com/user-attachments/assets/c42a092c-44e1-4f8a-9f3b-424a4a5a2589" />
