@@ -25,5 +25,6 @@ And because it has morning (ochtend) and evening (avond) you would switch it whe
 
 I did add some small details to make it look a bit less boring.
 
-<img width="956" height="678" alt="image" src="https://github.com/user-attachments/assets/c42a092c-44e1-4f8a-9f3b-424a4a5a2589" />
+<img width="876" height="586" alt="image" src="https://github.com/user-attachments/assets/5b362af5-4757-4e64-ac7b-7f6b5c81ae1f" />
+
 
